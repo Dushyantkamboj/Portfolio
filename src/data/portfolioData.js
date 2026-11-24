@@ -142,7 +142,8 @@ export const projectsData = [
     ],
     techStack: ["React.js", "JavaScript (ES6+)", "Tailwind CSS", "Local Storage", "Responsive Design"],
     github: "https://github.com/Dushyantkamboj/Password-Manager",
-    demo: "https://github.com/Dushyantkamboj",
+    demo: "http://pass.54.253.99.131.nip.io/",
+    hasLiveDemo: true,
     fallbackColor: "from-emerald-900/60 via-teal-900/40 to-slate-900"
   },
   {
